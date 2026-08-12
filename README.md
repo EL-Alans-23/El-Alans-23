@@ -66,8 +66,8 @@
 ### 📈 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=el-alans-23&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=el-alans-23&layout=compact&theme=radical&hide_border=true&hide=html,css" alt="Top Languages" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=el-alans-23&theme=radical&hide_border=true" alt="GitHub Streak" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=el-alans-23&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165" />
 </div>
 <br />
 
