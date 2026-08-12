@@ -48,3 +48,41 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
+---
+
+### 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| 📦 **[TheHuddle7](https://github.com/el-alans-23/thehuddle7)** | Distributed microservices architecture (Users, Tasks, Notifications) with decoupled REST APIs and unified auth. | `Python` `FastAPI` `Docker` `REST API` |
+| 📊 **[ETL & Data Pipeline](https://github.com/el-alans-23)** | Automated web scraping, data cleaning, normalization, and relational database loading (PostgreSQL/SQL) with UML documentation. | `Python` `Pandas` `SQL` `PostgreSQL` |
+
+</div>
+
+---
+
+### 📈 GitHub Stats & Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=el-alans-23&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Alan's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=el-alans-23&layout=compact&theme=radical&hide_border=true&hide=html,css" alt="Top Languages" height="165" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=el-alans-23&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+### 📫 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alansrolons23@gmail.com)
+
+</div>
