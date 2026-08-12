@@ -71,10 +71,6 @@
 </div>
 <br />
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=el-alans-23&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
 ---
 
 ### 📫 Connect with Me
