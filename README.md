@@ -45,30 +45,4 @@
 
 ---
 
-### 🚀 Currently Exploring
 
-```cpp
-// AlanController.cpp
-#include <iostream>
-#include <string>
-
-class Developer {
-public:
-    std::string name = "Alan Rolón";
-    std::string status = "Building backend systems & sharpening problem-solving skills 🚀";
-};
-
-<!--
-**EL-Alans-23/El-Alans-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
